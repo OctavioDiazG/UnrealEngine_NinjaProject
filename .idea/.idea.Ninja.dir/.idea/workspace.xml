@@ -8,19 +8,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48877d6e-3add-419f-8bdd-9ad1e8712443" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Ninja.dir/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Ninja.dir/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Ninja.dir/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Ninja.dir/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/ThirdPerson/Blueprints/BP_ItemUnreal.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/Ninja.Target.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/Ninja/Ninja.Build.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/Ninja/Ninja.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/Ninja/Ninja.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Widgets/scoreTextWidget.uasset" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Source/Ninja/ScoreController.cpp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Source/Ninja/ScoreController.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/NinjaEditor.Target.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ninja.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/Ninja.uproject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Ninja.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Ninja.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Widgets/Widget_Score.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Widgets/Widget_Score.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Ninja/Ninja.Build.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Ninja/Ninja.Build.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,6 +99,7 @@
       <updated>1665507290854</updated>
       <workItem from="1665507338855" duration="702000" />
       <workItem from="1665508078237" duration="4000" />
+      <workItem from="1665511414300" duration="1414000" />
     </task>
     <servers />
   </component>
